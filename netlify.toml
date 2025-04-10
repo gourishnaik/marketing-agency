@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/marketing-agency"
+  publish = "dist/angular-task"
 
 [[redirects]]
   from = "/*"
